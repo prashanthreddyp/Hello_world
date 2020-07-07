@@ -31,5 +31,4 @@ jobs:
       run: |
             chmod +x ./sample.sh
             ./sample.sh 
-            ./echo Add other actions to build,
-            echo test, and deploy your project.
+    #./echo Add other actions to build,echo test, and deploy your project.
