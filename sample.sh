@@ -2,7 +2,8 @@ echo "hello world"
 echo "please enther number"
 a=1
 b=2
+c=3
 echo $a
 echo $b
-c=`expr $a + $b`
+d=`expr $a + $b`
 echo $c
